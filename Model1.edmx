@@ -627,7 +627,7 @@ warning 6013: The table/view 'QLSV.dbo.tblDeletedSinhVien' does not have a prima
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="QLSVEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="QLSVEntities1" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="taikhoan" EntityType="Self.taikhoan" />
           <EntitySet Name="tblDiem" EntityType="Self.tblDiem" />
           <EntitySet Name="tblDiemTrungBinh" EntityType="Self.tblDiemTrungBinh" />
@@ -684,7 +684,7 @@ warning 6013: The table/view 'QLSV.dbo.tblDeletedSinhVien' does not have a prima
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="QLSVModelStoreContainer" CdmEntityContainer="QLSVEntities">
+        <EntityContainerMapping StorageEntityContainer="QLSVModelStoreContainer" CdmEntityContainer="QLSVEntities1">
           <EntitySetMapping Name="taikhoan">
             <EntityTypeMapping TypeName="QLSVModel.taikhoan">
               <MappingFragment StoreEntitySet="taikhoan">

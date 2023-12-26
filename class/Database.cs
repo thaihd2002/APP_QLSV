@@ -11,7 +11,7 @@ namespace QuanLySinhVienCshape
 {
     public class Database
     {
-        private string connetionString = @"Data Source=DESKTOP-7NT3E6O;Initial Catalog=QLSV;Integrated Security=True";
+        private string connetionString = @"Data Source=THAIHD;Initial Catalog=QLSV;Integrated Security=True";
         private SqlConnection conn;
         private DataTable dt;
         private SqlCommand cmd;

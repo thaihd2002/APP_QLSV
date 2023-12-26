@@ -13,10 +13,10 @@ namespace QuanLySinhVienCshape
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class QLSVEntities : DbContext
+    public partial class QLSVEntities1 : DbContext
     {
-        public QLSVEntities()
-            : base("name=QLSVEntities")
+        public QLSVEntities1()
+            : base("name=QLSVEntities1")
         {
         }
     
