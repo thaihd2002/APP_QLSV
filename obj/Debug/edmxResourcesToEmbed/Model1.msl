@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLSVModelStoreContainer" CdmEntityContainer="QLSVEntities">
+    <EntitySetMapping Name="taikhoan">
+      <EntityTypeMapping TypeName="QLSVModel.taikhoan">
+        <MappingFragment StoreEntitySet="taikhoan">
+          <ScalarProperty Name="tentaikhoan" ColumnName="tentaikhoan" />
+          <ScalarProperty Name="matkhau" ColumnName="matkhau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDiem">
+      <EntityTypeMapping TypeName="QLSVModel.tblDiem">
+        <MappingFragment StoreEntitySet="tblDiem">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="masinhvien" ColumnName="masinhvien" />
+          <ScalarProperty Name="malophocphan" ColumnName="malophocphan" />
+          <ScalarProperty Name="diemchuyencan" ColumnName="diemchuyencan" />
+          <ScalarProperty Name="diemheso1" ColumnName="diemheso1" />
+          <ScalarProperty Name="diemheso2_1" ColumnName="diemheso2_1" />
+          <ScalarProperty Name="diemheso2_2" ColumnName="diemheso2_2" />
+          <ScalarProperty Name="diemquatrinh" ColumnName="diemquatrinh" />
+          <ScalarProperty Name="diemthi" ColumnName="diemthi" />
+          <ScalarProperty Name="diemhocphan" ColumnName="diemhocphan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDiemTrungBinh">
+      <EntityTypeMapping TypeName="QLSVModel.tblDiemTrungBinh">
+        <MappingFragment StoreEntitySet="tblDiemTrungBinh">
+          <ScalarProperty Name="masinhvien" ColumnName="masinhvien" />
+          <ScalarProperty Name="hoten" ColumnName="hoten" />
+          <ScalarProperty Name="nsinh" ColumnName="nsinh" />
+          <ScalarProperty Name="gioitinh" ColumnName="gioitinh" />
+          <ScalarProperty Name="lophoc" ColumnName="lophoc" />
+          <ScalarProperty Name="makhoa" ColumnName="makhoa" />
+          <ScalarProperty Name="diemtrungbinh" ColumnName="diemtrungbinh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblGiaoVien">
+      <EntityTypeMapping TypeName="QLSVModel.tblGiaoVien">
+        <MappingFragment StoreEntitySet="tblGiaoVien">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="matkhau" ColumnName="matkhau" />
+          <ScalarProperty Name="magiaovien" ColumnName="magiaovien" />
+          <ScalarProperty Name="ho" ColumnName="ho" />
+          <ScalarProperty Name="tendem" ColumnName="tendem" />
+          <ScalarProperty Name="ten" ColumnName="ten" />
+          <ScalarProperty Name="gioitinh" ColumnName="gioitinh" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="dienthoai" ColumnName="dienthoai" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="diachi" ColumnName="diachi" />
+          <ScalarProperty Name="makhoa" ColumnName="makhoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblKhoa">
+      <EntityTypeMapping TypeName="QLSVModel.tblKhoa">
+        <MappingFragment StoreEntitySet="tblKhoa">
+          <ScalarProperty Name="makhoa" ColumnName="makhoa" />
+          <ScalarProperty Name="tenkhoa" ColumnName="tenkhoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLopHoc">
+      <EntityTypeMapping TypeName="QLSVModel.tblLopHoc">
+        <MappingFragment StoreEntitySet="tblLopHoc">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="malophoc" ColumnName="malophoc" />
+          <ScalarProperty Name="tenlophoc" ColumnName="tenlophoc" />
+          <ScalarProperty Name="khoahoc" ColumnName="khoahoc" />
+          <ScalarProperty Name="hedaotao" ColumnName="hedaotao" />
+          <ScalarProperty Name="namnhaphoc" ColumnName="namnhaphoc" />
+          <ScalarProperty Name="makhoa" ColumnName="makhoa" />
+          <ScalarProperty Name="magiaovien" ColumnName="magiaovien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLopHocPhan">
+      <EntityTypeMapping TypeName="QLSVModel.tblLopHocPhan">
+        <MappingFragment StoreEntitySet="tblLopHocPhan">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="malophocphan" ColumnName="malophocphan" />
+          <ScalarProperty Name="mamonhoc" ColumnName="mamonhoc" />
+          <ScalarProperty Name="magiaovien" ColumnName="magiaovien" />
+          <ScalarProperty Name="hocky" ColumnName="hocky" />
+          <ScalarProperty Name="nam" ColumnName="nam" />
+          <ScalarProperty Name="makhoa" ColumnName="makhoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMonHoc">
+      <EntityTypeMapping TypeName="QLSVModel.tblMonHoc">
+        <MappingFragment StoreEntitySet="tblMonHoc">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="mamonhoc" ColumnName="mamonhoc" />
+          <ScalarProperty Name="tenmonhoc" ColumnName="tenmonhoc" />
+          <ScalarProperty Name="sotinchi" ColumnName="sotinchi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPhongDaoTao">
+      <EntityTypeMapping TypeName="QLSVModel.tblPhongDaoTao">
+        <MappingFragment StoreEntitySet="tblPhongDaoTao">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="manhanvien" ColumnName="manhanvien" />
+          <ScalarProperty Name="matkhau" ColumnName="matkhau" />
+          <ScalarProperty Name="ho" ColumnName="ho" />
+          <ScalarProperty Name="tendem" ColumnName="tendem" />
+          <ScalarProperty Name="ten" ColumnName="ten" />
+          <ScalarProperty Name="gioitinh" ColumnName="gioitinh" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="dienthoai" ColumnName="dienthoai" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="diachi" ColumnName="diachi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSinhVien">
+      <EntityTypeMapping TypeName="QLSVModel.tblSinhVien">
+        <MappingFragment StoreEntitySet="tblSinhVien">
+          <ScalarProperty Name="ngaytao" ColumnName="ngaytao" />
+          <ScalarProperty Name="nguoicapnhat" ColumnName="nguoicapnhat" />
+          <ScalarProperty Name="nguoitao" ColumnName="nguoitao" />
+          <ScalarProperty Name="ngaycapnhat" ColumnName="ngaycapnhat" />
+          <ScalarProperty Name="masinhvien" ColumnName="masinhvien" />
+          <ScalarProperty Name="matkhau" ColumnName="matkhau" />
+          <ScalarProperty Name="ho" ColumnName="ho" />
+          <ScalarProperty Name="tendem" ColumnName="tendem" />
+          <ScalarProperty Name="ten" ColumnName="ten" />
+          <ScalarProperty Name="ngaysinh" ColumnName="ngaysinh" />
+          <ScalarProperty Name="gioitinh" ColumnName="gioitinh" />
+          <ScalarProperty Name="quequan" ColumnName="quequan" />
+          <ScalarProperty Name="diachi" ColumnName="diachi" />
+          <ScalarProperty Name="dienthoai" ColumnName="dienthoai" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="malophoc" ColumnName="malophoc" />
+          <ScalarProperty Name="hocbong" ColumnName="hocbong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

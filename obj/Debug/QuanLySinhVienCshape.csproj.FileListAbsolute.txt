@@ -1,0 +1,193 @@
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\QuanLySinhVienCshape.exe.config
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\QuanLySinhVienCshape.exe
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\QuanLySinhVienCshape.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.AssemblyReference.cache
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.SuggestedBindingRedirects.cache
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDangnhap.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.Properties.Resources.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.GenerateResource.cache
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.CoreCompileInputs.cache
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.exe
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmMain.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmSinhVien.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmWelcome.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDSSV.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDSGV.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDSMH_.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmGV.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsLopHoc.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\ReaLTaiizor.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.CopyComplete
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsLopHocPhan.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsDiem.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsDiemTB.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsHocBong.resources
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Bunifu.Licensing.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Bunifu.Licensing.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Costura.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Microsoft.Win32.SystemEvents.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\Newtonsoft.Json.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\RestSharp.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Buffers.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.CodeDom.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Data.Odbc.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Data.OleDb.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Data.SqlClient.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Diagnostics.EventLog.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Drawing.Common.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.IO.Packaging.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.IO.Pipes.AccessControl.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.IO.Ports.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Memory.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Numerics.Vectors.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.AccessControl.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.Permissions.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Security.Principal.Windows.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Duplex.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Http.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Http.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Security.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Security.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Syndication.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Threading.AccessControl.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Web.Services.Description.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\System.Web.Services.Description.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\cs\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\de\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\es\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\fr\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\it\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\ja\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\ko\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\pl\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\pt-BR\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\ru\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\tr\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\zh-Hans\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\zh-Hant\System.Web.Services.Description.resources.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.exe.config
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\LiveCharts.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\LiveCharts.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\LiveCharts.WinForms.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\LiveCharts.WinForms.pdb
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\LiveCharts.Wpf.dll
+D:\Thực hành lập trình .NET\QuanLySinhVienCshape\bin\Debug\LiveCharts.Wpf.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\QuanLySinhVienCshape.exe.config
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\QuanLySinhVienCshape.exe
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\QuanLySinhVienCshape.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Bunifu.Licensing.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Bunifu.Licensing.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Bunifu.UI.WinForms.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Costura.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\DocumentFormat.OpenXml.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\LiveCharts.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\LiveCharts.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\LiveCharts.WinForms.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\LiveCharts.WinForms.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\LiveCharts.Wpf.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\LiveCharts.Wpf.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Microsoft.Win32.Registry.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Microsoft.Win32.SystemEvents.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\Newtonsoft.Json.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\ReaLTaiizor.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\RestSharp.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Buffers.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.CodeDom.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Data.Odbc.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Data.OleDb.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Data.SqlClient.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Diagnostics.EventLog.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Drawing.Common.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.IO.Packaging.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.IO.Pipes.AccessControl.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.IO.Ports.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Memory.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Numerics.Vectors.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.AccessControl.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.Permissions.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Security.Principal.Windows.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Duplex.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Duplex.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Http.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Http.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.NetTcp.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.NetTcp.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Primitives.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Primitives.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Security.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Security.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceModel.Syndication.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.ServiceProcess.ServiceController.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Threading.AccessControl.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Web.Services.Description.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\System.Web.Services.Description.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\cs\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\de\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\es\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\fr\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\it\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\ja\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\ko\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\pl\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\pt-BR\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\ru\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\tr\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\zh-Hans\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\zh-Hant\System.Web.Services.Description.resources.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.AssemblyReference.cache
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.exe.config
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsDiem.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDangnhap.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDSGV.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsLopHoc.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDSMH_.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsLopHocPhan.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDSSV.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmGV.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmMain.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmSinhVien.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmWelcome.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsDiemTB.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.frmDsHocBong.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.Properties.Resources.resources
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.GenerateResource.cache
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.CoreCompileInputs.cache
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.csproj.CopyComplete
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.exe
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\obj\Debug\QuanLySinhVienCshape.pdb
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\EntityFramework.SqlServer.dll
+E:\thuctap.net\BTL\QuanLySinhVienCshape (1)\QuanLySinhVienCshape\bin\Debug\EntityFramework.dll
